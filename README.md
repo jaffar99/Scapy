@@ -11,3 +11,4 @@ By analysing the results, one can discover vulnerabilities in these devices such
 most attackers exploit to conduct Man In The Middle Attack, etc.
 
 Further Analysis and Execution instructions on Report.pdf
+After the program executes the results gets saved in xlsx files, which can then be analyzed
